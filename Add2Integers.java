@@ -9,7 +9,7 @@
          int num1, num2, sum; //Declaration of variables
          Scanner in = new Scanner(System.in); //Scans for keyboard input
 
-         System.out.print("Enter first integer: "); //Prompt user input
+         System.out.print("Enter 1st integer: "); //Prompt user input
          num1 = in.nextInt();
          System.out.print("Enter second integer: "); //Prompt user input
          num2 = in.nextInt();
