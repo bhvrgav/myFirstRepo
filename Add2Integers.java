@@ -16,6 +16,7 @@
 
          sum = num1 + num2; //Compute the sum
          System.out.println("The sum is: " + sum);
+         System.out.println("Voila!");
          in.close(); //Close the scanner
      }	
  }
