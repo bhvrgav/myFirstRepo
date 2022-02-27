@@ -11,7 +11,7 @@
 
          System.out.print("Enter first integer: "); //Prompt user input
          num1 = in.nextInt();
-         System.out.print("Enter 2nd integer: "); //Prompt user input
+         System.out.print("Enter second integer: "); //Prompt user input
          num2 = in.nextInt();
 
          sum = num1 + num2; //Compute the sum
